@@ -4,3 +4,6 @@
 [submodule "personal-webpage"]
 	path = personal-webpage
 	url = https://github.com/hollywoodchase/personal-webpage
+[submodule "about-me"]
+	path = about-me
+	url = https://github.com/hollywoodchase/about-me

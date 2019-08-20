@@ -1,0 +1,6 @@
+[submodule "Word-Guess-Game"]
+	path = Word-Guess-Game
+	url = https://github.com/hollywoodchase/Word-Guess-Game
+[submodule "personal-webpage"]
+	path = personal-webpage
+	url = https://github.com/hollywoodchase/personal-webpage
